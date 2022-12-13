@@ -1,0 +1,89 @@
+
+.profile-pic {
+     /* background-image: url('https://a2.muscache.com/im/pictures/eaaf3fc2-4b5f-42ed-a79b-2bff9a1a47b8.jpg?aki_policy=profile_medium'); */
+   display: inline-block;
+ width: 34px;
+ height: 34px;
+ border-radius: 50%;
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ margin: 4px;
+}
+
+.chunk {
+   min-height: 100px;
+   background: #FFFFFF;
+   border: 1px solid #EAEAF2;
+   border-radius: 5px;
+   text-align: center;
+}
+.chunk h3 {
+color:  #FF4D62;
+}
+/* ---- BOOKING DETAILS ----- */
+.booking-card {
+   background: #fff;
+   position: relative;
+   padding: 3% 0 0 0 ;
+}
+
+.booking-card span {
+   float: left;
+   padding: 10px 0;
+    text-align: center;
+}
+.booking-card .profile-pic {
+   width: 50px;
+   height: 50px;
+       margin-left: 28%;
+}
+.card-row {
+   border-top:1px #f1f1f1 solid ;
+   margin: 0px;
+   padding: 1.5%;
+
+}
+.card-row.total {
+   border-color: #FFA6B1;
+   color: #464672;
+   
+}
+.card-row .nights {
+   padding-right: 20px;
+}
+.card-catergory {
+  border-right:1px #f1f1f1 solid ;
+}
+.name-date {
+   padding-bottom: 20px;
+}
+.name-date div {
+   text-align: left;
+}
+.name-date .guest-name {
+font-size: 20px;
+padding: 4px 0;
+  color: #464672;
+  font-weight: bold;
+}
+.earnings-total {
+   font-size: 20px;
+  color: #464672;
+}
+
+.btn-1 {
+   background: rgb(6,14,131);
+   background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
+    font-size: 1rem;
+   border: none;
+    color: white;
+    height: 45px;
+    width: 200px;
+    border-radius: 6px;
+    margin: 0px 20px;
+ }
+ .btn-1:hover {
+    background: rgb(0,3,255);
+ background: linear-gradient(0deg, rgba(0,3,255,1) 0%, rgba(2,126,251,1) 100%);
+ }
