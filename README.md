@@ -44,7 +44,7 @@ The following is an example of the output of the script:
  **Reservations:**
  ```
  | Reservation ID |	Guest Name |	Room Number |	Check-in Date |	Check-out Date |
- ------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------
  |    1	          | John Smith |	   101	    |  2023-03-01	  | 2023-03-03 |
  |    2	          | Jane Doe	 |     102	    |  2023-03-04	  | 2023-03-06 |
 ```
